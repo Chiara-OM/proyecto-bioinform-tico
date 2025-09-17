@@ -6,3 +6,11 @@ La expansión urbana no planificada ha sido históricamente una causa principal 
 Aunque la MMx es una de las megalópolis más grandes del mundo y alberga altos niveles de biodiversidad mamífera (aproximadamente 200 especies), se desconoce el impacto de la urbanización en la diversidad y abundancia de especies, o cómo la estructura del paisaje afecta su potencial de dispersión. México se enfrenta a grandes disminuciones de hábitat para 2050, lo que representa un alto riesgo para las especies en peligro. Además, el sistema actual de Áreas Protegidas en el país, y en la MMx, es insuficiente para garantizar la conservación a largo plazo.
 
 El objetivo general del estudio es estimar los impactos potenciales del cambio global en los patrones de distribución de los mamíferos en la MMx, identificar las especies más vulnerables y evaluar el grado de protección dentro de las ANPs frente al cambio global futuro. Este repositorio, "Análisis de Distribución de Especies y Huella Humana en México"1, proporciona el script en R y los recursos necesarios para analizar la distribución espacial de especies de mamíferos, su presencia en ANPs, zonas deforestadas y diferentes categorías de huella humana, así como estadísticas de elevación1. Este análisis es crucial para abordar la brecha de conocimiento y sustentar acciones de conservación urgentes.
+
+# Importancia
+
+La importancia de este repositorio radica en la provisión de una herramienta analítica reproducible y accesible para abordar los desafíos de conservación de mamíferos en la Megalópolis Mexicana ante el cambio global. 
+
+El script aquí presentado facilita el análisis de la estrecha relación entre el cambio climático global y la reducción de áreas climáticamente idóneas para las especies. Escenarios como el de "no dispersión" proyectado para 2070, donde las especies solo podrían mantener o perder sus áreas de distribución conocidas, son catastróficos y poco alentadores, y el script permite visualizar estas proyecciones. Esta herramienta es crucial para comprender cómo la transformación del hábitat impacta la distribución de los mamíferos y su grado de vulnerabilidad en el paisaje urbano.
+
+Este repositorio, al ofrecer los medios para estos análisis, subraya la necesidad urgente de acciones inmediatas de mitigación y conservación para reducir los riesgos e impactos a largo plazo en la biodiversidad.
